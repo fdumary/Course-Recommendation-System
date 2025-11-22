@@ -6,11 +6,44 @@ Contributors: Sharnica Jeudy, George Burton, Ricaldo Pierre, Francesca Dumary, J
 
 ## Project Setup
 
+1. Clone the repository.
 
-project setup
+    git clone https://github.com/fdumary/Course-Recommendation-System.git
 
-dependencies
+    cd Course-Recommendation-System
 
-how to run the code
+2. Make sure that Python is installed.
 
-Link to the presentation video
+    python --version
+
+3. Create a virtual environment. (Optional but recommended.)
+
+     python -m venv venv
+
+     Activate it:
+
+     Windows:
+     venv\Scripts\activate
+   
+     Mac/Linux:
+     source venv/bin/activate
+
+## Dependencies
+
+Install all required libraries:
+
+pip install numpy pandas scikit-learn matplotlib seaborn
+
+OR
+
+python -m pip install numpy pandas scikit-learn matplotlib seaborn
+
+## How to Run the Code
+
+Run the main program:
+
+python code.py
+
+## Presentation Video
+
+Insert Link Here
