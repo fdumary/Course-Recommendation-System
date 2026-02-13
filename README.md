@@ -45,3 +45,6 @@ python -m pip install numpy pandas scikit-learn matplotlib seaborn
 Open Visual Studio Code or another IDE
 
 Open the file "code.py" and run
+
+Thank youy!
+
